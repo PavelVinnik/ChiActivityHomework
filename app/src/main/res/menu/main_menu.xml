@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/tab_one"
+        android:title="Tab 1" />
+    <item
+        android:id="@+id/tab_two"
+        android:title="Tab 2" />
+    <item
+        android:id="@+id/tab_three"
+        android:title="Tab 3" />
+    <item
+        android:id="@+id/tab_four"
+        android:title="Tab 4" />
+    <item
+        android:id="@+id/tab_five"
+        android:title="Tab 5" />
+    <item
+        android:id="@+id/tab_six"
+        android:title="Tab 6" />
+    <item
+        android:id="@+id/tab_seven"
+        android:title="Tab 7" />
+    <item
+        android:id="@+id/tab_eight"
+        android:title="Tab 8" />
+    <item
+        android:id="@+id/tab_nine"
+        android:title="Tab 9" />
+    <item
+        android:id="@+id/tab_ten"
+        android:title="Tab 10" />
+    <item
+        android:id="@+id/tab_eleven"
+        android:title="Tab 11" />
+    <item
+        android:id="@+id/tab_twelve"
+        android:title="Tab 12" />
+
+
+</menu>
