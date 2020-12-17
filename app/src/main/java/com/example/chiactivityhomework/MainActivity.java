@@ -81,7 +81,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
     @Override
     protected void onRestart() {
         super.onRestart();
-        Log.d(TAG, "onResume");
+        Log.d(TAG, "onRestart");
     }
 
     @Override
